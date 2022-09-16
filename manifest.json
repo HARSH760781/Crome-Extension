@@ -1,0 +1,16 @@
+{
+    "name": "Harsh Launcher",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon_64.png"
+    },
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "permissions": [
+        "activeTab",
+        "webrequest"
+    ]
+}
